@@ -4,7 +4,28 @@
     background: #1F2937;
     display: flex;
   }
-  
-  .two {
-    
+.two {
+    height: 140px;
+    padding: 16px;
+    background: #fbfcfd;
+    display: flex;
   }
+.three {
+    height: 140px;
+    padding: 16px;
+    background: #E5E7EB;
+    display: flex;
+  }
+.four {
+    height: 140px;
+    padding: 16px;
+    background: #FBFCFD;
+    display: flex;
+  }
+.five {
+    height: 60px;
+    padding: 16px;
+    background: #1F2937;
+    display: flex;
+  }
+  
