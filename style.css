@@ -1,29 +1,75 @@
 .one {
-    height: 140px;
+    height: 340px;
     padding: 16px;
     background: #1F2937;
-    display: flex;
+    padding-left: 150px;
+    padding-right: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
+.header{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 24px;
+}
+.page-links{
+    color: #f9faf8;
+    font-size: 17px;
+}
+.title-box{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+.signup{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 1000;
+}
+.picture{
+  background: gray;
+  height: 200px;
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  background-color: #3b8fdd; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 .two {
-    height: 140px;
+    height: 340px;
     padding: 16px;
     background: #fbfcfd;
     display: flex;
   }
 .three {
-    height: 140px;
+    height: 340px;
     padding: 16px;
     background: #E5E7EB;
     display: flex;
   }
 .four {
-    height: 140px;
+    height: 340px;
     padding: 16px;
     background: #FBFCFD;
     display: flex;
   }
 .five {
-    height: 60px;
+    height: 120px;
     padding: 16px;
     background: #1F2937;
     display: flex;
